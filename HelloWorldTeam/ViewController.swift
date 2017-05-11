@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         //jjjprint("Hello World")
         print("gg")sdf
+        print tommy oh yea
         
         // Do any additional setup after loading the view, typically from a nib.
     }
