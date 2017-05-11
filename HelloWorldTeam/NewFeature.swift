@@ -12,7 +12,7 @@ class NewFeature: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("New Features")
         // Do any additional setup after loading the view.
     }
 
