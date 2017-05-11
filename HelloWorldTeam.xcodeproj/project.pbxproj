@@ -14,6 +14,7 @@
 		63FBD8371EC4FA86000BC85B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63FBD8351EC4FA86000BC85B /* LaunchScreen.storyboard */; };
 		63FBD8421EC4FA86000BC85B /* HelloWorldTeamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FBD8411EC4FA86000BC85B /* HelloWorldTeamTests.swift */; };
 		63FBD84D1EC4FA86000BC85B /* HelloWorldTeamUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FBD84C1EC4FA86000BC85B /* HelloWorldTeamUITests.swift */; };
+		63FBD85B1EC4FF2E000BC85B /* NewFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63FBD85A1EC4FF2E000BC85B /* NewFeature.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		63FBD8481EC4FA86000BC85B /* HelloWorldTeamUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldTeamUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63FBD84C1EC4FA86000BC85B /* HelloWorldTeamUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldTeamUITests.swift; sourceTree = "<group>"; };
 		63FBD84E1EC4FA86000BC85B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63FBD85A1EC4FF2E000BC85B /* NewFeature.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewFeature.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				63FBD82C1EC4FA86000BC85B /* AppDelegate.swift */,
 				63FBD82E1EC4FA86000BC85B /* ViewController.swift */,
 				63FBD8301EC4FA86000BC85B /* Main.storyboard */,
+				63FBD85A1EC4FF2E000BC85B /* NewFeature.swift */,
 				63FBD8331EC4FA86000BC85B /* Assets.xcassets */,
 				63FBD8351EC4FA86000BC85B /* LaunchScreen.storyboard */,
 				63FBD8381EC4FA86000BC85B /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				63FBD82F1EC4FA86000BC85B /* ViewController.swift in Sources */,
 				63FBD82D1EC4FA86000BC85B /* AppDelegate.swift in Sources */,
+				63FBD85B1EC4FF2E000BC85B /* NewFeature.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
